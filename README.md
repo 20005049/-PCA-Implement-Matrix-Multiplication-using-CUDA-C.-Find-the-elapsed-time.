@@ -17,8 +17,8 @@ Save the program and execute it .
 
 ## Program :
 ```
-Developed by: Kumaran B
-Register number: 212220230026
+Developed by: sri harish
+Register number: 212220230047
 ```
 ```c
 #include <stdio.h>
